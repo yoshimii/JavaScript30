@@ -1,9 +1,10 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/nCv1YOg.jpg) bottom center;
+  background: url(https://i.imgur.com/nCv1YOg.jpg), url(https://i.imgur.com/Qsqswhk.jpg), url(https://i.imgur.com/Qsqswhk.jpg);
+  background-position: bottom center, bottom left, bottom right;
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: black;
+  background-color: rgba(0,0,0,0.4);
 }
 
 body,html {

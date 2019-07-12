@@ -1,7 +1,9 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  background: url(https://i.imgur.com/nCv1YOg.jpg) bottom center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
 }
 
 body,html {
